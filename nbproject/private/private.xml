@@ -5,6 +5,8 @@
         <group>
             <file>file:/C:/Users/Cruz/Desktop/ActividadFaker/resources/views/Usuarios/listar.blade.php</file>
             <file>file:/C:/Users/Cruz/Desktop/ActividadFaker/app/Http/Controllers/Usercontroller.php</file>
+            <file>file:/C:/Users/Cruz/Desktop/ActividadFaker/database/seeders/DatabaseSeeder.php</file>
+            <file>file:/C:/Users/Cruz/Desktop/ActividadFaker/database/factories/UserFactory.php</file>
         </group>
     </open-files>
 </project-private>
